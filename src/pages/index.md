@@ -6,11 +6,11 @@ sections:
         url: /about
     component: Intro
     content: |-
-      ### Hello! I'm Jason. 
+      ## Hello! I'm Jason. 
 
 
 
-      #### Talk to me about design, public good, indie makers, & mindfulness.
+      ### Talk to me about design, public good, indie makers, & mindfulness.
     section_id: intro
     title: Intro
     type: intro
