@@ -3,6 +3,7 @@ title: Hello! I'm Jason.
 subtitle: 'Talk to me about design, public good, indie makers & mindfulness.'
 date: 2015-01-03T13:12:37.170Z
 thumb_img_path: /images/270.JPG
+content_img_path: /images/270.JPG
 excerpt: 'Talk to me about design, public good, indie makers & mindfulness.'
 template: post
 ---
