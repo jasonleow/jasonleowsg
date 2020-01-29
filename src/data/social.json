@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/pleasegetjason"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -13,27 +18,22 @@
       "url": "http://instagram.com/jasonleow"
     },
     {
-      "type": "github",
-      "title": "GitHub",
-      "icon": "fa-github",
-      "url": "https://github.com/jasonleow"
-    },
-    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://sg.linkedin.com/pub/jason-leow/2a/b39/9a4"
     },
     {
+      "type": "github",
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/jasonleow"
+    },
+    {
       "type": "devto",
       "title": "DEV",
       "icon": "fa-dev",
       "url": "https://dev.to/jasonleowsg"
-    },
-    {
-      "title": "Facebook",
-      "icon": "fa-facebook",
-      "url": "https://www.facebook.com/pleasegetjason"
     }
   ]
 }
