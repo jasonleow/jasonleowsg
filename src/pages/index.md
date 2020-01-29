@@ -5,7 +5,9 @@ sections:
       - label: Learn More
         url: /about
     component: Intro
-    content: "design ✏️ + public good \U0001F3DB + indie maker \U0001F680 + mindfulness ⛩"
+    content: >-
+      Hello! I'm Jason. Talk to me about design, public good, indie makers, &
+      mindfulness.
     section_id: intro
     title: Intro
     type: intro
