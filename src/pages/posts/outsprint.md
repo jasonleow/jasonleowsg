@@ -6,8 +6,6 @@ content_img_path: /images/landing02-by-Linh-Nguyen-unsplash.jpg
 excerpt: The fastest way to innovate public policy and social services
 template: post
 ---
-![Outsprint website](/images/One-pager.png)
-
 I’m now running Outsprint, a social enterprise as public innovation design consultancy for creating social change and public good.
 
 [Outsprint](http://outsprint.io/) is the fastest way to innovate public policy and social services. We help organisations create better public good outcomes and social impact through human-centred design. All within one week, using what we call a design sprint.
@@ -20,3 +18,5 @@ I recently helped [SG Enable](https://www.sgenable.sg/), an agency dedicated to 
 
 Outsprint – Home\
 [http://outsprint.io](http://outsprint.io/)
+
+![Outsprint website](/images/One-pager.png)
