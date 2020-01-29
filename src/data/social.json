@@ -29,6 +29,11 @@
       "title": "DEV",
       "icon": "fa-dev",
       "url": "https://dev.to/jasonleowsg"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/pleasegetjason"
     }
   ]
 }
