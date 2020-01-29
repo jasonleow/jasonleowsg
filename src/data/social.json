@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Telegram",
+      "icon": "fa-telegram",
+      "url": "https://t.me/jasonleowsg"
+    },
+    {
       "title": "Facebook",
       "icon": "fa-facebook",
       "url": "https://www.facebook.com/pleasegetjason"
