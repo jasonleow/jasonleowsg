@@ -1,20 +1,17 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+img_path: /images/IMG_3792.JPG
 menus:
   main:
     title: About
     weight: 2
 template: page
 ---
+Jason’s first forays in design was helping businesses build online brands through user-centered web design, where he applied design thinking to his freelance work. Before starting out in as a designer, he was previously with the [National Council of Social Service](http://www.ncss.gov.sg/ "National Council of Social Service") where he championed ground-up collaboration efforts between social services, voluntary welfare organisations and the grassroots.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+At [The Human Experience Lab](http://www.challenge.gov.sg/print/feature/the-he%28art%29-of-designing-policies "The He(Art) Of Designing Policies | Challenge magazine") in the [Public Service Division](http://www.psd.gov.sg/ "Public Service Diviion, Prime Minister's Office"), Jason had the opportunity to bring his passions for human-centered design, social innovation and entrepreneurship into government to create public good. He spent 2 months at the globally renowned innovation firm [IDEO](http://www.ideo.com/ "IDEO"), working on a collaborative project commissioned by the housing authorities and PSD to look into the future of public housing. He had also worked on various multi-agency projects exploring issues such as Singaporeans’ career aspirations and helping persons with disabilities find employment.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+He is now running [Outsprint](http://outsprint.io/ "Design sprints for public good & social impact."), a social enterprise as public innovation design consultancy, creating products and services that deliver public and social good. He recently helped [SG Enable](https://www.sgenable.sg/ "SG Enable"), an agency dedicated to enabling persons with disability, design a new grant experience through a one-week design sprint.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+His pet passion of hoarding online articles had now found some popularity and practical use, in the [Design For Public Good Flipboard magazine](http://flip.it/CAG40 "Design For Public Good Flipboard magazine"), with over 12,000 readers.
