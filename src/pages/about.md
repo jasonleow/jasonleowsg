@@ -1,13 +1,15 @@
 ---
 title: About Me
 subtitle: Jason's bio
-img_path: /images/IMG_3792.JPG
+img_path: ''
 menus:
   main:
     title: About
     weight: 2
 template: page
 ---
+![jason at work](/images/IMG_3792.JPG)
+
 Jason’s first forays in design was helping businesses build online brands through user-centered web design, where he applied design thinking to his freelance work. Before starting out in as a designer, he was previously with the [National Council of Social Service](http://www.ncss.gov.sg/ "National Council of Social Service") where he championed ground-up collaboration efforts between social services, voluntary welfare organisations and the grassroots.
 
 At [The Human Experience Lab](http://www.challenge.gov.sg/print/feature/the-he%28art%29-of-designing-policies "The He(Art) Of Designing Policies | Challenge magazine") in the [Public Service Division](http://www.psd.gov.sg/ "Public Service Diviion, Prime Minister's Office"), Jason had the opportunity to bring his passions for human-centered design, social innovation and entrepreneurship into government to create public good. He spent 2 months at the globally renowned innovation firm [IDEO](http://www.ideo.com/ "IDEO"), working on a collaborative project commissioned by the housing authorities and PSD to look into the future of public housing. He had also worked on various multi-agency projects exploring issues such as Singaporeans’ career aspirations and helping persons with disabilities find employment.
