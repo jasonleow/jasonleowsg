@@ -2,7 +2,7 @@
 title: Home
 sections:
   - actions:
-      - label: Learn More
+      - label: More about me
         url: /about
     component: Intro
     content: |-
