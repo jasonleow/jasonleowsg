@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: Jason's bio
 img_path: /images/IMG_3792.JPG
 menus:
   main:
