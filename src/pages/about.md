@@ -16,4 +16,4 @@ At [The Human Experience Lab](http://www.challenge.gov.sg/print/feature/the-he%2
 
 He is now running [Outsprint](http://outsprint.io/ "Design sprints for public good & social impact."), a social enterprise as public innovation design consultancy, creating products and services that deliver public and social good. He recently helped [SG Enable](https://www.sgenable.sg/ "SG Enable"), an agency dedicated to enabling persons with disability, design a new grant experience through a one-week design sprint.
 
-His pet passion of hoarding online articles had now found some popularity and practical use, in the [Design For Public Good Flipboard magazine](http://flip.it/CAG40 "Design For Public Good Flipboard magazine"), with over 12,000 readers.
+His pet passion of hoarding online articles had now found some popularity and practical use, in the [Design For Public Good Flipboard magazine](http://flip.it/CAG40 "Design For Public Good Flipboard magazine"), with over 13,000 viewers and 344,000 page flips.
